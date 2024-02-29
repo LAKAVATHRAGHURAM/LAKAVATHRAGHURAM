@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @**LAKAVATHRAGHURAM**
+- 👋 Hi, I’m @**LAKAVATH RAGHURAM**
 - 👀 I’m interested in **ARTIFICIAL INTELLIGENCE**
 - 🌱 I’m currently learning ... **DEEP LEARNING**
 - 💞️ I’m looking to collaborate on ...
